@@ -1,4 +1,4 @@
-#8-puzzle
+# 8-puzzle
 
 BFS, DFS, A* and IDA* 8-puzzle implementation
 
